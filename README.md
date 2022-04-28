@@ -6,11 +6,12 @@
 
 ## As simple as possible.
 
+About | Me
 --- | --- 
 Birthday | 22/02
 Favorite color | Blue
 Favorite food | Pasta
-Pinneapple on pizza | -[ ] Yes -[ ] No -[X] Why not
+Pinneapple on pizza | &#9744; Yes -[ ] No -[X] Why not
 
 ## Hobbies
 - Cook
@@ -24,15 +25,11 @@ Pinneapple on pizza | -[ ] Yes -[ ] No -[X] Why not
 
 ## A funny story 
 
+
+
 ### TL;DR 
 
 
 << previous || LAMBERT NICOLAS || next >>
 
-
-
-
-
-| d  |  d |   
-|  sdf |  sdf |   
-|  sdfds |  sdfsd |   
+  

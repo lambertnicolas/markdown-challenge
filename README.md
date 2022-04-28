@@ -11,7 +11,7 @@ About | Me
 Birthday | 22/02
 Favorite color | Blue
 Favorite food | Pasta
-Pinneapple on pizza | &#9744; Yes -[ ] No -[X] Why not
+Pinneapple on pizza | &#9744; Yes &#9744; No :white_check_mark: Why not
 
 ## Hobbies
 - Cook

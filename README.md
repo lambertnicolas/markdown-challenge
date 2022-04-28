@@ -31,6 +31,7 @@ J'ai eu un accident il y a  quelques années lorsque je travaillais dans un entr
 
 Parfois on pense faire les bons choix. Parfois on les regrette :)
 
-<div align="center"><< previous || LAMBERT NICOLAS || next >></div>
+
+<div align="center"><< previous || LAMBERT NICOLAS || next [>>](https://github.com/LeclercqL/markdown-challenge)</div>
 
   

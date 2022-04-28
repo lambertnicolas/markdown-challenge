@@ -8,11 +8,25 @@
 
 Birthday | 22/02
 --- | --- 
-Favorite color | [color=#1600ff]Blue[/color]
+Favorite color | Blue
 Favorite food | Pasta
-Pinneapple on pizza | [ ] Yes [ ] No [X] Why not
+Pinneapple on pizza | -[ ] Yes -[ ] No -[X] Why not
 
 ## Hobbies
 - Cook
     - Cooking
     - Watching cooking video
+- Sport
+    - To jog
+    - To swim
+- TV show
+- Cinéma
+
+## A funny story 
+
+### TL;DR 
+
+
+<< previous || LAMBERT NICOLAS || next >>
+
+

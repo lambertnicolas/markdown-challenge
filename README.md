@@ -6,7 +6,7 @@
 
 ## As simple as possible.
 
-Markdown | Less | Pretty
+Birthday | 22/02
 --- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+Favorite color | **Blue**
+Favorite food | Pasta

@@ -6,8 +6,8 @@
 
 ## As simple as possible.
 
-Birthday | 22/02
 --- | --- 
+Birthday | 22/02
 Favorite color | Blue
 Favorite food | Pasta
 Pinneapple on pizza | -[ ] Yes -[ ] No -[X] Why not
